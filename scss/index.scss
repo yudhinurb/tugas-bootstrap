@@ -1,0 +1,60 @@
+.text-orange {
+  color: #e78a6e;
+}
+
+.text-gray {
+  color: #888;
+}
+
+.nav-text {
+  color: #4d4d4d;
+}
+
+h1 {
+  font-family: serif;
+  font-weight: bold;
+  color: #4d4d4d;
+  font-size: 36px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.lead {
+  width: 45%;
+}
+
+.form {
+  width: 30%;
+}
+
+.label {
+  font-size: 13px;
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 2px;
+  background: #eee;
+}
+
+.btn {
+  width: 100%;
+}
+
+.btn-google {
+  border: 1px solid #eee;
+}
+
+.btn-masuk {
+  background-color: #e78a6e;
+}
+
+.text-masuk {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
